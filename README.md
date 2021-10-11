@@ -1,0 +1,1 @@
+# gerencia_de_estado_mobx
